@@ -1,0 +1,16 @@
+h1{
+	background-color: green;
+	font-family: impact;
+}
+
+body{
+	text-align: center;
+	color:white;
+	background: white;
+	padding: 5px;
+	font-family: candara;
+	font-size: 18px;
+}
+span{
+	color:black;
+}
